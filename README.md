@@ -10,3 +10,5 @@ Implementing the forward-forward algorithm in Jax can be a good idea because Jax
 </ul>
 
 Overall, using Jax to implement the forward-forward algorithm can be a good choice if you want to build high-performance machine learning applications that are easy to use and understand.
+
+**Note:** My original Implementation in here: https://github.com/sleepingcat4/Forward-Forward-Algorithm
